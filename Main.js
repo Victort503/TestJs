@@ -1,3 +1,5 @@
+//Creado por Victor Romero
+
 // Ejercicio 1
 const arrayNumerico = [10, "5", "7", 9, "23", "17"];
 
